@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Reiners;Felix;;;
+FN:Felix Reiners
+ORG:Evithera (in Gründung)
+TITLE:Gründer
+EMAIL;TYPE=INTERNET,WORK:felix@evithera.de
+URL;TYPE=WORK:https://evithera.de
+URL:https://www.linkedin.com/in/felix-reiners
+NOTE:Evidenz in der Therapie · Wissen, was hilft
+END:VCARD
